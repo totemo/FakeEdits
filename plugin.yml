@@ -1,0 +1,14 @@
+name: FakeEdits
+version: ${project.version}
+description: ${project.description}
+
+authors: [totemo]
+website: ${project.url}
+
+main: io.totemo.fakeedits.FakeEdits
+softdepend: []
+depend: [LogBlock]
+
+commands: {}
+
+permissions: {}
